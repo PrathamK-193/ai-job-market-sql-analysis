@@ -1,2 +1,2 @@
 # ai-job-market-sql-analysis
-SQL based project on AI-job-market-dataset
+This is a SQL based project where I have analyzed thousands of rows having 20 job roles in more than 50 countries. I have extracted important information from this dataset using basic to intermediate to advanced level queries. These queries include basics such as select, from, where, group by, order by, having and other important SQL topics such as joins, aggregate functions, sub-queries, window functions and case statements. 
